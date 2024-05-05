@@ -1,7 +1,6 @@
-![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
+![MasterHead](https://www.gmmspl.com/wp-content/uploads/2021/10/data-analytics.png)
 <h1 align="center">Hi 👋, I'm Phuong Dung Tran</h1>
 <h3 align="center">A Data Analytics Practitioner from Vietnam</h3>
-<img align="right" alt="Coding" width="400" scr="https://blog.darwinbox.com/hubfs/Banner-1.png#keepProtocol">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=withdungtran&label=Profile%20views&color=0e75b6&style=flat" alt="withdungtran" /> </p>
 
 - 🔭 I’m currently working on **People Analytics**
