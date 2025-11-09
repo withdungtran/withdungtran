@@ -3,16 +3,6 @@
 <h3 align="center">A Data Analytics Practitioner from Vietnam</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=withdungtran&label=Profile%20views&color=0e75b6&style=flat" alt="withdungtran" /> </p>
 
-- 🔭 I’m currently working on **People Analytics**
-
-- 🌱 I’m currently learning **Microsoft Azure**
-
-- 💬 Ask me about **Data Analytics, People Analytics**
-
-- 📫 How to reach me? **email: withdungtran@gmail.com**
-
-- ⚡ Fun fact **Part-time Introvert**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/withdungtran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="withdungtran/" height="30" width="40" /></a>
